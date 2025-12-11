@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    width: 300px;
+}
+
+.choices {
+    margin: 20px 0;
+}
+
+#history {
+    margin-top: 20px;
+}

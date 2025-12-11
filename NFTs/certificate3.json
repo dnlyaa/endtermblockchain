@@ -1,0 +1,9 @@
+{
+  "name": "Certificate #3",
+  "description": "Программа: Blockchain Security, Оценка: A-",
+  "attributes": [
+    {"trait_type": "Student", "value": "Aliya"},
+    {"trait_type": "Program", "value": "Blockchain Security"},
+    {"trait_type": "Grade", "value": "A-"}
+  ]
+}
