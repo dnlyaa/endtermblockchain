@@ -1,4 +1,4 @@
-const contractAddress = "0x3088950bA7e5872bA92D0431F8D1b9527608A992"; // твой RPS контракт
+const contractAddress = "0x3088950bA7e5872bA92D0431F8D1b9527608A992"; 
 const abi = [
     "function play(uint8 choice) public",
     "function getHistory(address player) public view returns (uint8[] memory, uint8[] memory)"
