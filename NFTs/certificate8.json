@@ -1,0 +1,9 @@
+{
+  "name": "Certificate #2",
+  "description": "Программа: Smart Contracts, Оценка: B+",
+  "attributes": [
+    {"trait_type": "Student", "value": "Balzhan"},
+    {"trait_type": "Program", "value": "Smart Contracts"},
+    {"trait_type": "Grade", "value": "C"}
+  ]
+}
